@@ -1,4 +1,4 @@
-<h1 align="center">Houdini Garden Builder</h1>
+<h1 align="center">Houdini Environment Builder</h1>
 <p align="center">
   <a href="https://www.sidefx.com/"><img src="https://img.shields.io/badge/-Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=FF4713&labelColor=282828"></a>
   <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828"></a><br>
@@ -8,12 +8,12 @@
 
 
 # Overview
-Houdini Garden Builder is a powerful node for styling terrain, populating a scene with repeated elements, and rendering the resulting geometry in an accessible way.
+Houdini Environment Builder is a powerful node for styling terrain, populating a scene with repeated elements, and rendering the resulting geometry in an accessible way.
 It combines tools for terrain generation, plant placement, stage material assignment, and rendering settings.
-Use this node to quickly set up a detailed environment for landscapes or garden scenes.
+Use this node to quickly set up a detailed environment for landscapes or environment scenes.
 
 > [!IMPORTANT]
-> I designed this tool to work ad hoc on linux, while it should be fully cross compatible, and I cannot gauruntee functionality on other operating systems or environments.
+> I designed this tool to work ad hoc on linux, while it should be fully cross compatible, and I cannot gauruntee functionali[](url)ty on other operating systems or environments.
 
 
 # Usage
