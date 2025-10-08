@@ -8,9 +8,8 @@
 
 
 # Overview
-Houdini Environment Builder is a powerful node for styling terrain, populating a scene with repeated elements, and rendering the resulting geometry in an accessible way.
+Houdini Environment Builder is a node for styling terrain, populating a scene with repeated elements, and rendering the resulting geometry.
 It combines tools for terrain generation, plant placement, stage material assignment, and rendering settings.
-Use this node to quickly set up a detailed environment for landscapes or environment scenes.
 
 > [!IMPORTANT]
 > I designed this tool to work ad hoc on linux, while it should be fully cross compatible, and I cannot gauruntee functionali[](url)ty on other operating systems or environments.
